@@ -1,0 +1,9 @@
+.cache/
+.idea/
+.vscode/
+.parcel-cache/
+build/
+node_modules/
+.env
+_env.php
+TODO.md
