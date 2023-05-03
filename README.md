@@ -4,7 +4,7 @@ Landing page for thriftynft.
 
 ## In Progress
 
-### Deadline - Apr 5
+### Deadline - May 5
 - [ ] 'Moderator' should not be able to change 'Admin' status.
 - [ ] Change to 3 grid
 - [ ] Lazy loading - boxes should be Squared
@@ -23,7 +23,7 @@ Landing page for thriftynft.
 - [ ] Video player. You can now pause and play by clicking + better fullscreen support
 - [ ] PDF view fixes
 
-### Deadline - Apr 10
+### Deadline - May 10
 - [ ] Search feature in Admin Dashboard
 - [ ] Change 'Category' of Products in Admin dashboard
 - [ ] Put 'Buy Now' + 'Auction' button in Homepage NFT items
