@@ -26,7 +26,6 @@ Landing page for thriftynft.
 
 ### Deadline - May 5
 
-- [ ] Lazy loading - boxes should be Squared
 - [ ] View Fullscreen for Video
 - [ ] Video player. You can now pause and play by clicking + better fullscreen support
 
@@ -85,3 +84,4 @@ Landing page for thriftynft.
 - [x] Profile: 'Cancel' button now redirects to Homepage
 - [x] Just bought items for Private NFT not showing instantly in product details page
 - [x] PDF view fixes (Probably, could not test)
+- [x] Lazy loading - boxes should be Squared
