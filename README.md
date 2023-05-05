@@ -4,26 +4,8 @@ Landing page for thriftynft.
 
 ## In Progress
 
-### Deadline - May 5
-- [ ] 'Moderator' should not be able to change 'Admin' status.
-- [ ] Change to 3 grid
-- [ ] Lazy loading - boxes should be Squared
-- [ ] Product share URL fix in 'ProductPopup.tsx' and 'ProductDetails.tsx'. Share URL requires 4 things: collectionId/tokenId/makerId/productKey.
-- [ ] ThriftyNFT Desktop Shortcut fixes
-- [ ] Profile: 'Cancel' button now redirects to Homepage
-- [ ] create-items.tsx: 'Category' text instead of 'NFT Type'
-- [ ] 'Create Items' is renamed to 'Create One Item'
-- [ ] 'PrivatePopup.tsx' Restructure
-- [ ] Product popup page
-- [ ] Contact us page
-- [ ] Product Create Page - Once item is created, remove 'CreateItem' button and put 'PutOnSale' button.
-- [ ] 'Place a Bid' / 'Buy Now' button on details page implementation
-- [ ] Just bought items for Private NFT not showing instantly in product details page
-- [ ] View Fullscreen for Video
-- [ ] Video player. You can now pause and play by clicking + better fullscreen support
-- [ ] PDF view fixes
-
 ### Deadline - May 10
+
 - [ ] Search feature in Admin Dashboard
 - [ ] Change 'Category' of Products in Admin dashboard
 - [ ] Put 'Buy Now' + 'Auction' button in Homepage NFT items
@@ -33,13 +15,23 @@ Landing page for thriftynft.
 - [ ] Search Feature: By TokenId, URL, Name etc.
 
 ### Future
+
 - [ ] Creator Profile Section
 - [ ] Product filter
 - [ ] Fix 'types' for Typescript
 - [ ] Clean video player
 - [ ] Documentation
 
+## InComplete Tasks
+
+### Deadline - May 5
+
+- [ ] Lazy loading - boxes should be Squared
+- [ ] View Fullscreen for Video
+- [ ] Video player. You can now pause and play by clicking + better fullscreen support
+
 ## Completed
+
 - [x] Check for missing code
 - [x] Deploy the clone
 - [x] Social integration
@@ -77,3 +69,19 @@ Landing page for thriftynft.
   - [x] Implement 'index.tsx'
 - [x] Implement Login system in Admin dashboard
 - [x] Authorization for Admin and subsidiaries
+
+### Deadline - May 5
+
+- [x] 'Moderator' should not be able to change 'Admin' status.
+- [x] Change NFT Grid Item Size
+- [x] You can buy/Cancel listing etc. from Product details page.
+- [x] You can now Share Product URL. Product share URL fix in 'ProductPopup.tsx' and 'ProductDetails.tsx'. Share URL requires 4 things: collectionId/tokenId/makerId/productKey.
+- [x] Product Create Page - Once item is created, remove 'CreateItem' button and put 'PutOnSale' button.
+- [x] Product Create Page - 'Category' text instead of 'NFT Type'
+- [x] 'Create Items' is renamed to 'Create One Item'
+- [x] Product popup page Restructure
+- [x] Contact us page
+- [x] ThriftyNFT Desktop Shortcut fixes
+- [x] Profile: 'Cancel' button now redirects to Homepage
+- [x] Just bought items for Private NFT not showing instantly in product details page
+- [x] PDF view fixes (Probably, could not test)
