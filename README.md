@@ -4,15 +4,17 @@ Landing page for thriftynft.
 
 ## In Progress
 
-### Deadline - May 10
+### Deadline - May 12 - 15
 
-- [ ] Search feature in Admin Dashboard
+- [ ] Manage Category from Admin Dashboard
+- [ ] Make Category Dynamic
 - [ ] Change 'Category' of Products in Admin dashboard
+- [ ] Search feature in Admin Dashboard
+- [ ] Search Feature: By TokenId, URL, Name etc.
 - [ ] Put 'Buy Now' + 'Auction' button in Homepage NFT items
 - [ ] Better Pagination
 - [ ] Multiple item Select in Admin Dashboard
 - [ ] Users/Admin can change items viewed Per page
-- [ ] Search Feature: By TokenId, URL, Name etc.
 
 ### Future
 
